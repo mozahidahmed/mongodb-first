@@ -53,8 +53,8 @@ run().catch(console.dir);
 
 
 app.get('/',(req,res)=>{
-    res.send('runnung car servicing MOZAHID MY NAME');
+    res.send('MOZAHID MY NAME I FIRST DEPLOY HEROKU');
 })
 app.listen(port,()=>{
-    console.log('listing to port MY name is Mozahid',port)
+    console.log('MOZAHID MY NAME I FIRST DEPLOY HEROKU',port)
 })
